@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Simple Management Car App .
 
-Things you may want to cover:
+## Here is APIs , Postman Collection link
 
-* Ruby version
+[Collection Link](https://www.getpostman.com/collections/748cc322cc2881ee934a)
 
-* System dependencies
+## Environment
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+environment file is exist in src folder
